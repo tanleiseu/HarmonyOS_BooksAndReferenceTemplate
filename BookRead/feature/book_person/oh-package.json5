@@ -1,0 +1,13 @@
+{
+  "name": "book_person",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "common": "file:../../commons/common",
+    "base_common": "file:../../components/base_common",
+    "swiper_card": "file:../../components/swiper_card"
+  }
+}

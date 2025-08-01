@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "reader_view_background_0",
+      "value": "#FBF0DB"
+    },
+    {
+      "name": "reader_view_background_1",
+      "value": "#FDE4E3"
+    },
+    {
+      "name": "reader_view_background_2",
+      "value": "#C3E7CE"
+    },
+    {
+      "name": "reader_view_background_3",
+      "value": "#000000"
+    },
+    {
+      "name": "font_modifier_inner_color",
+      "value": "#f7f7f7"
+    },
+    {
+      "name": "slider_selected_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "pure_white",
+      "value": "#ffffff"
+    }
+  ]
+}

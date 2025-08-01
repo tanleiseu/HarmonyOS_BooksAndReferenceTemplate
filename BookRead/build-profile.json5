@@ -1,0 +1,79 @@
+{
+  "app": {
+    "signingConfigs": [
+
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.4(16)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "common",
+      "srcPath": "./commons/common",
+    },
+    {
+      "name": "book_home",
+      "srcPath": "./feature/book_home",
+    },
+    {
+      "name": "book_person",
+      "srcPath": "./feature/book_person",
+    },
+    {
+      "name": "book_shelf",
+      "srcPath": "./feature/book_shelf",
+    },
+    {
+      "name": "book_read_kit",
+      "srcPath": "./feature/book_read_kit"
+    },
+    {
+      "name": "book_sort",
+      "srcPath": "./feature/book_sort",
+    },
+    {
+      "name": "swiper_card",
+      "srcPath": "./components/swiper_card",
+    },
+    {
+      "name": "reader_tool_bar",
+      "srcPath": "./components/reader_tool_bar"
+    },
+    {
+      "name": "base_common",
+      "srcPath": "./components/base_common",
+    }
+  ]
+}
