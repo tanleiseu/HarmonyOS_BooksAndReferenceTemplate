@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 电子书阅读应用模板 |
 |:---:|
-|![输入图片说明](BookRead/docs/book_shelf.jpeg)| 
+|![输入图片说明](%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)| 
